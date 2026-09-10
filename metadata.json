@@ -1,0 +1,6 @@
+{
+  "name": "創映影像學苑 FrameCraft",
+  "description": "專為 25-40 歲創作者與行銷人打造的實戰動態影像與剪輯學苑。提供短影音行銷、鏡頭語言實戰、調色剪輯實體工作坊，從腳本到成片一站學會。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

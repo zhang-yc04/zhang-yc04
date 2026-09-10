@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Custom utility for clean horizontal cards track */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
