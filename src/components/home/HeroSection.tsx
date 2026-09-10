@@ -447,7 +447,7 @@ export const HeroSection: React.FC = () => {
             <div className="text-xs text-neutral-400 mt-0.5">實名好評滿意度</div>
           </div>
           <div className="p-3 rounded-xl bg-white/[0.02] border border-white/5">
-            <div className="text-2xl sm:text-3xl font-black text-white">3,200 萬+</div>
+            <div className="text-2xl sm:text-3xl font-black text-white">100 萬+</div>
             <div className="text-xs text-neutral-400 mt-0.5">學員作品累積播放數</div>
           </div>
           <div className="p-3 rounded-xl bg-white/[0.02] border border-white/5">
